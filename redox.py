@@ -20,7 +20,7 @@ import subprocess
 #REPLACE YOUR WEBHOOK
 
 
-hook = "YOUR WEBHOOK"
+hook = "WEBHOOK HERE"
 DETECTED = False
 
 
